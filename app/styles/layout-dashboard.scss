@@ -5,6 +5,8 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 50px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
 }
 
 /*
@@ -67,4 +69,8 @@ h1 {
 .placeholder img {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+}
+
+nav {
+  font-size: 14px;
 }
